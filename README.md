@@ -6,7 +6,8 @@
 Текст задачи
 Дробная часть. Дана сигнатура метода: public double fraction (double x); Необходимо реализовать метод таким образом, чтобы он возвращал только дробную часть числа х. Подсказка: вещественное число может быть преобразовано к целому путем отбрасывания дробной части. Пример: x=5,25 результат: 0,25
 
-<img width="431" height="223" alt="image" src="https://github.com/user-attachments/assets/adf88bfc-bba2-4821-a471-4d750ab2c619" />
+<img width="453" height="276" alt="image" src="https://github.com/user-attachments/assets/bdea476e-78c2-4276-9556-9ed8dbebe1ae" />
+
 
 
 Задача 2
