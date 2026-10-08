@@ -7,24 +7,36 @@
 Дробная часть. Дана сигнатура метода: public double fraction (double x); Необходимо реализовать метод таким образом, чтобы он возвращал только дробную часть числа х. Подсказка: вещественное число может быть преобразовано к целому путем отбрасывания дробной части. Пример: x=5,25 результат: 0,25
 
 <img width="453" height="276" alt="image" src="https://github.com/user-attachments/assets/bdea476e-78c2-4276-9556-9ed8dbebe1ae" />
-
-
+<img width="442" height="136" alt="image" src="https://github.com/user-attachments/assets/9ef298e0-7726-4942-803e-71e40db97612" />
 
 Задача 2
 Текст задачи
 Букву в число. Дана сигнатура метода: public int charToNum (char x); Метод принимает символ х, который представляет собой один из “0 1 2 3 4 5 6 7 8 9”. Необходимо реализовать метод таким образом, чтобы он преобразовывал символ в соответствующее число. Подсказка: код символа ‘0’ — это число 48. Пример: x=’3’ результат: 3
 
+<img width="666" height="251" alt="image" src="https://github.com/user-attachments/assets/72ea1b3b-f701-413a-af61-f58de1bcecf1" />
+<img width="492" height="170" alt="image" src="https://github.com/user-attachments/assets/719f2757-b24a-400a-8e3c-aff1dbc0d9fb" />
+
 Задача 3
 Текст задачи
 Двузначное. Дана сигнатура метода: public bool is2Digits (int x); Необходимо реализовать метод таким образом, чтобы он принимал число x и возвращал true, если оно двузначное. Пример 1: x=32 результат: true Пример 2: x=516 результат: false
+
+<img width="418" height="161" alt="image" src="https://github.com/user-attachments/assets/e0a972d9-c668-4f3f-8184-30d00a323828" />
+<img width="370" height="111" alt="image" src="https://github.com/user-attachments/assets/304d92f3-dd2e-4c1b-8592-0956fad3cc79" />
 
 Задача 4
 Текст задачи
 Диапазон. Дана сигнатура метода: public bool isInRange (int a, int b, int num); Метод принимает левую и правую границу (a и b) некоторого числового диапазона. Необходимо реализовать метод таким образом, чтобы он возвращал true, если num входит в указанный диапазон (включая границы). Обратите внимание, что отношение a и b заранее неизвестно (неясно кто из них больше, а кто меньше) Пример 1: a=5 b=1 num=3 результат: true Пример 2: a=2 b=15 num=33 результат: false
 
+<img width="393" height="255" alt="image" src="https://github.com/user-attachments/assets/888c91a8-263c-437e-a14f-b8dba0cec7e4" />
+<img width="366" height="168" alt="image" src="https://github.com/user-attachments/assets/28b3acd1-65d0-4eea-abe9-085752fdbc52" />
+<img width="378" height="173" alt="image" src="https://github.com/user-attachments/assets/7d0af756-5da1-4724-afde-f23587d578ab" />
+
 Задача 5
 Текст задачи
 Равенство. Дана сигнатура метода: public bool isEqual(int a, int b, int c); Необходимо реализовать метод таким образом, чтобы он возвращал true, если все три полученных методом числа равны Пример 1: a=3 b=3 с=3 результат: true Пример 2: a=2 b=15 с=2 результат: false
+
+<img width="390" height="307" alt="image" src="https://github.com/user-attachments/assets/1f7e457b-aa39-47bc-baf0-2ea6e52ecf9e" />
+<img width="375" height="168" alt="image" src="https://github.com/user-attachments/assets/9ccbb443-7c90-4925-b65b-7d9ce7c8b879" />
 
 Задание 2
 
@@ -32,21 +44,38 @@
 Текст задачи
 Модуль числа. Дана сигнатура метода: public int abs (int x); Необходимо реализовать метод таким образом, чтобы он возвращал модуль числа х (если оно было положительным, то таким и остается, если он было отрицательным – то необходимо вернуть его без знака минус). Пример 1: x=5 результат: 5 Пример 2: x=-3 результат: 3
 
+<img width="383" height="182" alt="image" src="https://github.com/user-attachments/assets/9796c870-1f04-4f9d-997a-5e0be9c6e474" />
+<img width="382" height="141" alt="image" src="https://github.com/user-attachments/assets/f144041c-f648-4f00-aad6-79403e5ea65a" />
+<img width="387" height="130" alt="image" src="https://github.com/user-attachments/assets/663b2bdf-4e6d-45f6-b206-b5c872b9e7c2" />
+
 Задача 2
 Текст задачи
 Тридцать пять. Дана сигнатура метода: public bool is35 (int x); Необходимо реализовать метод таким образом, чтобы он возвращал true, если число x делится нацело на 3 или 5. При этом, если оно делится и на 3, и на 5, то вернуть надо false. Подсказка: оператор % позволяет получить остаток от деления. Пример 1: x=5 результат: true Пример 2: x=8 результат: false Пример 3: x=15 результат: false
+
+<img width="424" height="231" alt="image" src="https://github.com/user-attachments/assets/5649b8bc-48ab-4916-8edf-17261bbe5e09" />
+<img width="389" height="130" alt="image" src="https://github.com/user-attachments/assets/75515810-8882-4dbc-92ab-1089b1c9e381" />
+<img width="405" height="132" alt="image" src="https://github.com/user-attachments/assets/94888f0f-120e-4f68-8efa-eee441b7d673" />
 
 Задача 3
 Текст задачи
 Тройной максимум. Дана сигнатура метода: public int max3 (int x, int y, int z); Необходимо реализовать метод таким образом, чтобы он возвращал максимальное из трех полученных методом чисел. Подсказка: идеальное решение включает всего две инструкции if и не содержит вложенных if. Пример 1: x=5 y=7 z=7 результат: 7 Пример 2: x=8 y=-1 z=4 результат: 8
 
+<img width="414" height="262" alt="image" src="https://github.com/user-attachments/assets/fcd10408-dffa-421d-9666-4c51a96c36fc" />
+<img width="422" height="181" alt="image" src="https://github.com/user-attachments/assets/378a4afd-c65d-488e-b27b-bef9f5ec794a" />
+
 Задача 4
 Текст задачи
 Двойная сумма. Дана сигнатура метода: public int sum2 (int x, int y); Необходимо реализовать метод таким образом, чтобы он возвращал сумму чисел x и y. Однако, если сумма попадает в диапазон от 10 до 19, то надо вернуть число 20. Пример 1: x=5 y=7 результат: 20 Пример 2: x=8 y=-1 результат: 7
 
+<img width="399" height="208" alt="image" src="https://github.com/user-attachments/assets/8399274e-e76d-4f39-a90e-e3b6b944d80c" />
+<img width="391" height="155" alt="image" src="https://github.com/user-attachments/assets/d2ea327a-e21b-4a0f-add4-1f62d43f4da8" />
+
 Задача 5
 Текст задачи
 День недели. Дана сигнатура метода: public String day (int x); Метод принимает число x, обозначающее день недели. Необходимо реализовать метод таким образом, чтобы он возвращал строку, которая будет обозначать текущий день недели, где 1- это понедельник, а 7 – воскресенье. Если число не от 1 до 7 то верните текст “это не день недели”. Вместо if в данной задаче используйте switch. Пример: x=5 результат: “пятница”
+
+<img width="567" height="214" alt="image" src="https://github.com/user-attachments/assets/2aad720e-0822-4895-a55a-499bc306113b" />
+<img width="470" height="80" alt="image" src="https://github.com/user-attachments/assets/622df596-791e-47d3-871a-ad772747193e" />
 
 Задание 3
 
