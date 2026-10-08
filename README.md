@@ -21,6 +21,7 @@
 Алгоритм:
 Использовать тот факт, что коды символов цифр идут подряд: '0' = 48, '1' = 49, …, '9' = 57.
 Вычесть из кода символа код '0': x - '0'.
+
 <img width="666" height="251" alt="image" src="https://github.com/user-attachments/assets/72ea1b3b-f701-413a-af61-f58de1bcecf1" />
 <img width="492" height="170" alt="image" src="https://github.com/user-attachments/assets/719f2757-b24a-400a-8e3c-aff1dbc0d9fb" />
 
@@ -31,6 +32,7 @@
 Алгоритм:
 Двузначные числа — от 10 до 99 и от -99 до -10.
 Проверить попадание в один из этих диапазонов.
+
 <img width="418" height="161" alt="image" src="https://github.com/user-attachments/assets/e0a972d9-c668-4f3f-8184-30d00a323828" />
 <img width="370" height="111" alt="image" src="https://github.com/user-attachments/assets/304d92f3-dd2e-4c1b-8592-0956fad3cc79" />
 
@@ -41,6 +43,7 @@
 Алгоритм:
 Найти минимум и максимум из a и b через Math.Min / Math.Max.
 Проверить, что num >= min && num <= max.
+
 <img width="393" height="255" alt="image" src="https://github.com/user-attachments/assets/888c91a8-263c-437e-a14f-b8dba0cec7e4" />
 <img width="366" height="168" alt="image" src="https://github.com/user-attachments/assets/28b3acd1-65d0-4eea-abe9-085752fdbc52" />
 <img width="378" height="173" alt="image" src="https://github.com/user-attachments/assets/7d0af756-5da1-4724-afde-f23587d578ab" />
@@ -51,6 +54,7 @@
 
 Алгоритм:
 Проверить a == b и b == c одновременно.
+
 <img width="390" height="307" alt="image" src="https://github.com/user-attachments/assets/1f7e457b-aa39-47bc-baf0-2ea6e52ecf9e" />
 <img width="375" height="168" alt="image" src="https://github.com/user-attachments/assets/9ccbb443-7c90-4925-b65b-7d9ce7c8b879" />
 
@@ -63,6 +67,7 @@
 Алгоритм:
 Если x < 0, вернуть -x.
 Иначе вернуть x.
+
 <img width="383" height="182" alt="image" src="https://github.com/user-attachments/assets/9796c870-1f04-4f9d-997a-5e0be9c6e474" />
 <img width="382" height="141" alt="image" src="https://github.com/user-attachments/assets/f144041c-f648-4f00-aad6-79403e5ea65a" />
 <img width="387" height="130" alt="image" src="https://github.com/user-attachments/assets/663b2bdf-4e6d-45f6-b206-b5c872b9e7c2" />
@@ -75,6 +80,7 @@
 Вычислить div3 = (x % 3 == 0).
 Вычислить div5 = (x % 5 == 0).
 Вернуть div3 != div5 (исключающее ИЛИ): истина, если ровно одно из условий выполнено.
+
 <img width="424" height="231" alt="image" src="https://github.com/user-attachments/assets/5649b8bc-48ab-4916-8edf-17261bbe5e09" />
 <img width="389" height="130" alt="image" src="https://github.com/user-attachments/assets/75515810-8882-4dbc-92ab-1089b1c9e381" />
 <img width="405" height="132" alt="image" src="https://github.com/user-attachments/assets/94888f0f-120e-4f68-8efa-eee441b7d673" />
@@ -100,6 +106,7 @@
 Вычислить sum = x + y.
 Если 10 <= sum <= 19, вернуть 20.
 Иначе вернуть sum.
+
 <img width="399" height="208" alt="image" src="https://github.com/user-attachments/assets/8399274e-e76d-4f39-a90e-e3b6b944d80c" />
 <img width="391" height="155" alt="image" src="https://github.com/user-attachments/assets/d2ea327a-e21b-4a0f-add4-1f62d43f4da8" />
 
@@ -110,6 +117,7 @@
 Алгоритм:
 В switch по x для каждого значения 1..7 вернуть соответствующую строку.
 В default вернуть сообщение об ошибке.
+
 <img width="567" height="214" alt="image" src="https://github.com/user-attachments/assets/2aad720e-0822-4895-a55a-499bc306113b" />
 <img width="470" height="80" alt="image" src="https://github.com/user-attachments/assets/622df596-791e-47d3-871a-ad772747193e" />
 
@@ -123,6 +131,7 @@
 Если x >= 0: цикл i от 0 до x, добавлять i + " ".
 Если x < 0: цикл i от x до 0, добавлять i + " ".
 Вернуть строку.
+
 <img width="422" height="140" alt="image" src="https://github.com/user-attachments/assets/a38c89ae-9908-4bae-94cd-3c1d35d5c1b5" />
 
 Задача 2
@@ -133,6 +142,7 @@
 Цикл i от 0 до x с шагом 2.
 Добавлять i + " " в строку.
 Вернуть строку.
+
 <img width="375" height="127" alt="image" src="https://github.com/user-attachments/assets/2e765f23-2681-43a8-bb67-7e71481b62c6" />
 
 Задача 3
@@ -143,6 +153,7 @@
 Взять модуль x, чтобы работать с положительным числом.
 Если x == 0, вернуть 1.
 Иначе в цикле делить x на 10, пока оно больше 0, увеличивая счётчик.
+
 <img width="385" height="133" alt="image" src="https://github.com/user-attachments/assets/78350b86-34fb-40fb-82d8-0dbe70e55219" />
 
 Задача 4
@@ -153,6 +164,7 @@
 Внешний цикл i от 0 до x-1 — строки.
 Внутренний цикл j от 0 до x-1 — вывести * в каждой строке.
 После внутреннего цикла — перевод строки.
+
 <img width="467" height="184" alt="image" src="https://github.com/user-attachments/assets/a4a69116-68a5-478d-a4a0-386252d1d295" />
 <img width="480" height="226" alt="image" src="https://github.com/user-attachments/assets/6e0f377f-6323-4fb5-a089-9fde3edb8366" />
 
@@ -165,6 +177,7 @@
 Вывести x - i пробелов.
 Вывести i звёздочек.
 Перейти на новую строку.
+
 <img width="459" height="177" alt="image" src="https://github.com/user-attachments/assets/b1f9340c-a019-4dd8-8f11-722dbb13ace0" />
 
 Задание 4
@@ -177,6 +190,7 @@
 Пройти по массиву с начала.
 При первом совпадении arr[i] == x вернуть i.
 Если цикл завершён — вернуть -1.
+
 <img width="536" height="317" alt="image" src="https://github.com/user-attachments/assets/b7928cba-0841-4d96-ae37-6e64fcf74f3e" />
 <img width="511" height="315" alt="image" src="https://github.com/user-attachments/assets/f3812453-94d8-47b5-8b13-2a696993d435" />
 <img width="738" height="332" alt="image" src="https://github.com/user-attachments/assets/03772776-1609-4242-924f-9911ead93e7e" />
@@ -190,6 +204,7 @@
 Пройти по массиву с 1-го элемента.
 Если |arr[i]| > |maxim|, обновить maxim = arr[i].
 Вернуть maxim.
+
 <img width="511" height="262" alt="image" src="https://github.com/user-attachments/assets/bcab6d69-6762-4733-b0bf-37d057ac2376" />
 <img width="515" height="268" alt="image" src="https://github.com/user-attachments/assets/d64866c5-7888-40e6-a722-9570807e9421" />
 
@@ -203,6 +218,7 @@
 Скопировать ins в позиции pos..pos+ins.Length-1.
 Скопировать оставшиеся элементы arr[pos..] в конец.
 Вернуть новый массив.
+
 <img width="715" height="588" alt="image" src="https://github.com/user-attachments/assets/991a641d-0090-49b6-857c-cde485f8859a" />
 
 Задача 4
@@ -213,6 +229,7 @@
 Создать массив той же длины.
 Для каждого i присвоить ret[i] = arr[arr.Length - 1 - i].
 Вернуть ret.
+
 <img width="518" height="297" alt="image" src="https://github.com/user-attachments/assets/e8ef457c-a61e-4742-b95c-760800901440" />
 
 
@@ -225,6 +242,7 @@
 Создать массив результата длины count.
 Второй проход: записывать индексы совпадений в результат.
 Вернуть результат.
+
 <img width="478" height="337" alt="image" src="https://github.com/user-attachments/assets/1ed6dd58-89f5-4e3c-bab1-758533c5a751" />
 <img width="481" height="334" alt="image" src="https://github.com/user-attachments/assets/569dd778-8ad0-4efb-a858-ae9d26b177be" />
 
