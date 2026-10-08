@@ -1,0 +1,14 @@
+C:\Users\RiviAd0\source\repos\Laba_1\Laba_1\bin\Debug\net10.0\Laba_1.exe
+C:\Users\RiviAd0\source\repos\Laba_1\Laba_1\bin\Debug\net10.0\Laba_1.deps.json
+C:\Users\RiviAd0\source\repos\Laba_1\Laba_1\bin\Debug\net10.0\Laba_1.runtimeconfig.json
+C:\Users\RiviAd0\source\repos\Laba_1\Laba_1\bin\Debug\net10.0\Laba_1.dll
+C:\Users\RiviAd0\source\repos\Laba_1\Laba_1\bin\Debug\net10.0\Laba_1.pdb
+C:\Users\RiviAd0\source\repos\Laba_1\Laba_1\obj\Debug\net10.0\Laba_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RiviAd0\source\repos\Laba_1\Laba_1\obj\Debug\net10.0\Laba_1.AssemblyInfoInputs.cache
+C:\Users\RiviAd0\source\repos\Laba_1\Laba_1\obj\Debug\net10.0\Laba_1.AssemblyInfo.cs
+C:\Users\RiviAd0\source\repos\Laba_1\Laba_1\obj\Debug\net10.0\Laba_1.csproj.CoreCompileInputs.cache
+C:\Users\RiviAd0\source\repos\Laba_1\Laba_1\obj\Debug\net10.0\Laba_1.dll
+C:\Users\RiviAd0\source\repos\Laba_1\Laba_1\obj\Debug\net10.0\refint\Laba_1.dll
+C:\Users\RiviAd0\source\repos\Laba_1\Laba_1\obj\Debug\net10.0\Laba_1.pdb
+C:\Users\RiviAd0\source\repos\Laba_1\Laba_1\obj\Debug\net10.0\Laba_1.genruntimeconfig.cache
+C:\Users\RiviAd0\source\repos\Laba_1\Laba_1\obj\Debug\net10.0\ref\Laba_1.dll
